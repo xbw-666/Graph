@@ -1,0 +1,13 @@
+﻿  AdjacencyMatrixGraph.c
+E:\Adjacency Matrix Graph\Adjacency Matrix Graph\AdjacencyMatrixGraph.c(101,18): warning C4047: “函数”:“ALGraph *”与“ALGraph **”的间接级别不同
+E:\Adjacency Matrix Graph\Adjacency Matrix Graph\AdjacencyMatrixGraph.c(101,18): warning C4024: “LocateVex_1”: 形参和实参 1 的类型不同
+E:\Adjacency Matrix Graph\Adjacency Matrix Graph\AdjacencyMatrixGraph.c(101,23): warning C4047: “函数”:“int”与“int *”的间接级别不同
+E:\Adjacency Matrix Graph\Adjacency Matrix Graph\AdjacencyMatrixGraph.c(101,23): warning C4024: “LocateVex_1”: 形参和实参 2 的类型不同
+E:\Adjacency Matrix Graph\Adjacency Matrix Graph\AdjacencyMatrixGraph.c(102,18): warning C4047: “函数”:“ALGraph *”与“ALGraph **”的间接级别不同
+E:\Adjacency Matrix Graph\Adjacency Matrix Graph\AdjacencyMatrixGraph.c(102,18): warning C4024: “LocateVex_1”: 形参和实参 1 的类型不同
+E:\Adjacency Matrix Graph\Adjacency Matrix Graph\AdjacencyMatrixGraph.c(102,23): warning C4047: “函数”:“int”与“int *”的间接级别不同
+E:\Adjacency Matrix Graph\Adjacency Matrix Graph\AdjacencyMatrixGraph.c(102,23): warning C4024: “LocateVex_1”: 形参和实参 2 的类型不同
+E:\Adjacency Matrix Graph\Adjacency Matrix Graph\AdjacencyMatrixGraph.c(105,14): warning C4133: “=”: 从“ArcNode *”到“VNode *”的类型不兼容
+E:\Adjacency Matrix Graph\Adjacency Matrix Graph\AdjacencyMatrixGraph.c(43,1): warning C4715: “LocateVex”: 不是所有的控件路径都返回值
+E:\Adjacency Matrix Graph\Adjacency Matrix Graph\AdjacencyMatrixGraph.c(53,1): warning C4715: “LocateVex_1”: 不是所有的控件路径都返回值
+  Adjacency Matrix Graph.vcxproj -> E:\Adjacency Matrix Graph\x64\Debug\Adjacency Matrix Graph.exe
